@@ -9,7 +9,7 @@ This dataset contains 5 columns and 2357 rows:
 | ----------- | ----------- | ----------- |
 | country_name | This column stores the full name of the country| VARCHAR(50) |
 | country_code| This column stores a standardized country code, typically an abbreviation or code | VARCHAR(50) |
-| indicator_name |This column stores the name of the debt indicator, which describes the type or category of debt being measured| Text |
+| indicator_name |Stores the name of the debt indicator, which describes the type or category of debt being measured| Text |
 |indicator_code |This column stores a code that corresponds to the debt indicator |Text|
 |debt	|The amount of debt in numeric form	|Numeric|
 
