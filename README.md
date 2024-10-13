@@ -13,8 +13,7 @@ This dataset contains 5 columns and 2357 rows:
 |indicator_code |This column stores a code that corresponds to the debt indicator |Text|
 |debt	|The amount of debt in numeric form	|Numeric|
 
-What is the total amount of debt that is owed by the countries listed in the dataset? Which country owns the maximum amount of debt and what does that amount look like? What is the average amount of debt owed by countries across different debt indicators? The data used in this project is provided by The World Bank. 
-It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
+## Analysed questions 
 
 1. The World Bank's international debt data
 2. Finding the number of distinct countries
